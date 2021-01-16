@@ -1,1 +1,3 @@
 keyboard_layout=us
+block_device=sda
+partition_method=manual
